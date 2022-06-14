@@ -10,6 +10,6 @@ def factorialCalculate(x):
     return result
 
 
-test_num = int(input("enter a number --->>>))
+test_num = int(input("enter a number --->>>"))
 
-print(factorialCalculate(test_num))    
+print(factorialCalculate(test_num))
